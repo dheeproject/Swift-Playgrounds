@@ -1,3 +1,6 @@
+// Comments have their own relevance
+
+
 import UIKit
 
 struct Example
